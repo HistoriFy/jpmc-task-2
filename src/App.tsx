@@ -12,6 +12,10 @@ interface IState {
 }
 
 /**
+ * Made amendments as per the ticket requirement />
+ */
+
+/**
  * The parent element of the react app.
  * It renders title, button and Graph react element.
  */

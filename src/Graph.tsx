@@ -4,6 +4,11 @@ import { ServerRespond } from './DataStreamer';
 import './Graph.css';
 
 /**
+ * Made amendments as per the ticket requirement />
+ */
+
+
+/**
  * Props declaration for <Graph />
  */
 interface IProps {
